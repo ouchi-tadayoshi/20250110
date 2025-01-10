@@ -1,0 +1,212 @@
+@charset "UTF-8";
+header {
+    position: fixed;
+    justify-content: right;
+    width: 312px;
+    height: 4270px;
+    right: 0;
+    background-color: #999;
+}
+.hidari {
+    margin-top: 75px;
+    place-items: center;
+}
+.logo {
+    display: grid;
+    place-items: center;
+}
+.hidari2 {
+    display: contents;
+    font-size: 32px;
+}
+.mokuzi {
+    background-color: #e1e1e1;
+    padding: 18px 124px 18px 124px;
+    text-align: center;
+    margin-top: 120px;
+}
+.koumoku {
+    width: 312px;
+    height: 315px;
+    background-color: #e1e1e1;
+    margin-top: 60px;
+    padding-top: 18px;
+
+}
+.pro,
+.ski,
+.wo {
+    padding-left: 30px;
+    padding-top: 40px;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    margin-right: 312px;
+    background-color: #aaa;
+}
+.p {
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    padding: 52px 0px;
+    background-color: #999;
+    align-self: stretch;
+    border-bottom: 5px solid #000;
+}
+.name {
+    width: 620px;
+    height: 544px;
+    background-color: #e1e1e1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.komozi,
+.omozi {
+    text-align: center;
+    margin-top: 0;
+}
+.komozi {
+    font-size: 16px;
+    margin-top: 50px;
+}
+.omozi {
+    font-size: 36px;
+}
+.sikaku{
+    width: 1000px;
+    height: 420px;
+    margin-top: 60px;
+    flex-shrink: 0;
+    display: flex;
+}
+
+.left {
+    width: 500px;
+    height: 420px;
+    flex-shrink: 0;
+}
+.rignt {
+    width: 500px;
+    height: 420px;
+    justify-content: center;
+    align-items: flex-start;
+}
+.live,
+.school,
+.good,
+.bad {
+    text-align: center;
+    font-size: 24px;
+    width: 500px;
+    padding: 23px 0px;
+    background-color: #999;
+    border-top: 5px solid #000;
+    border-left: 5px solid #000;
+}
+.live2,
+.school2,
+.good2,
+.bad2 {
+    width: 500px;
+    height: 135px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e1e1e1;
+    border-top: 5px solid #000;
+    border-left: 5px solid #000;
+}
+.good,
+.good2,
+.bad,
+.bad2 {
+    border-right: 5px solid #000;
+}
+.school2,
+.bad2 {
+    border-bottom: 5px solid #000;
+}
+.s {
+    margin-top: 75px;
+    font-size: 64px;
+    background-color: #999;
+    display: flex;
+    justify-content: center;
+    align-self: stretch;
+    border-top: 5px solid #000;
+    border-bottom: 5px solid #000;
+}
+.sikaku2 {
+    width: 1000px;
+    margin-top: 70px;
+}
+.imte,
+.imte2 {
+    width: 1000px;
+    height: 255px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e2e2e2;
+    border-top: 5px solid #000;
+    border-right: 5px solid #000;
+    border-left: 5px solid #000;
+}
+.imte2 {
+    border-bottom: 5px solid #000;
+}
+
+.excel,
+.powerpoint,
+.htmlcss {
+    display: flex;
+    font-size: 24px;
+    width: 1000px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #999;
+    border-top: 5px solid #000;
+    border-right: 5px solid #000;
+    border-left: 5px solid #000;
+}
+.exceltext,
+.powertext,
+.htmltext {
+    width: 500px;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.excelimg,
+.powerimg,
+.htmlimg {
+    width: 500px;
+    height: 255px;
+    align-self: center;
+}
+.excelimg2,
+.powerimg2,
+.htmlimg2 {
+    padding: 27px 50px;
+    border-right: 5px solid #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
